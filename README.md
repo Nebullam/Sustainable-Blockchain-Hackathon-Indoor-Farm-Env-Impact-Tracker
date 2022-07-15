@@ -10,6 +10,8 @@ View the [video walkthrough](https://youtu.be/oXBEGoD8YR0?list=PLaiSf_XWcFZXBgl9
 
 Play with the prototype [here](https://0a6a-103-40-197-102.in.ngrok.io).
 
+Learn more about vertical farming [here](https://youtu.be/1MkRX2fPP58).
+
 ## Setup the WebApp on your machine
 - [Install IPFS and have the IPFS Daemon running](https://docs.ipfs.io/install/)
 - [Install R](https://cran.r-project.org)
