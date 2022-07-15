@@ -1,0 +1,412 @@
+IW,Harvest Date,Location,Actual Yield (lbs.),Water Usage (Gals.),Fertilizer Usage (lbs),Electricity Consumed (kwh),Product Type,Farm
+02-23-22 Site Z1,2/23/2022,Site Z1,21.6,180.4,0.89,399,Butterhead,Nebullam Des Moines
+01-26-22 Site Z1,1/26/2022,Site Z1,16.63,75.45,1.27,213,Butterhead,Nebullam Des Moines
+01-26-22 Site Z1,1/26/2022,Site Z1,9.08,67.5,0.81,182,Strawberries,Nebullam Des Moines
+12-29-21 Site Z1,12/29/2021,Site Z1,20,76.15,0.82,394,Butterhead,Nebullam Des Moines
+12-01-21 Site Z1,12/1/2021,Site Z1,10,76.8,0.41,395,Rainbow Chard,Nebullam Des Moines
+11-03-21 Site Z1,11/3/2021,Site Z1,27.01,140.15,1.11,398,Rainbow Chard,Nebullam Des Moines
+10-06-21 Site Z1,10/6/2021,Site Z1,27.5,166.5,1.22,366,Rainbow Chard,Nebullam Des Moines
+09-08-21 Site Z1,9/8/2021,Site Z1,25.8,124.9,1.15,361,Rainbow Chard,Nebullam Des Moines
+08-11-21 Site Z1,8/11/2021,Site Z1,21.5,60.85,1.04,336,Rainbow Chard,Nebullam Des Moines
+07-14-21 Site Z1,7/14/2021,Site Z1,48.75,264.4,2.17,369,Rainbow Chard,Nebullam Des Moines
+05-17-21 Site Z1,5/17/2021,Site Z1,25.7,143.8,1.05,396,Rainbow Chard,Nebullam Des Moines
+04-19-21 Site Z1,4/19/2021,Site Z1,24.66,125.55,1.01,399,Rainbow Chard,Nebullam Des Moines
+03-22-21 Site Z1,3/22/2021,Site Z1,27.9,141.4,1.14,394,Rainbow Chard,Nebullam Des Moines
+02-22-21 Site Z1,2/22/2021,Site Z1,39.08,181.6,1.6,396,Rainbow Chard,Nebullam Des Moines
+02-04-21 Site Z1,2/4/2021,Site Z1,16.72,85.2,0.99,273,Rainbow Chard,Nebullam Des Moines
+01-08-21 Site Z1,1/8/2021,Site Z1,30.04,129.35,1.6,307,Rainbow Chard,Nebullam Des Moines
+12-10-20 Site Z1,12/10/2020,Site Z1,26.66,135.95,1.42,308,Rainbow Chard,Nebullam Des Moines
+11-11-20 Site Z1,11/11/2020,Site Z1,28.98,134.05,1.55,302,Rainbow Chard,Nebullam Des Moines
+10-16-20 Site Z1,10/16/2020,Site Z1,48.49,245.65,2.59,308,Rainbow Chard,Nebullam Des Moines
+06-22-22 Site Z2,6/22/2022,Site Z2,22.43,140.15,0.92,394,Butterhead,Nebullam Des Moines
+06-22-22 Site Z2,6/22/2022,Site Z2,22.43,140.15,0.92,398,Butterhead,Nebullam Des Moines
+05-25-22 Site Z2,5/25/2022,Site Z2,25,159.65,1.03,394,Butterhead,Nebullam Des Moines
+02-23-22 Site Z2,2/23/2022,Site Z2,9.6,48.95,0.85,187,Strawberries,Nebullam Des Moines
+02-23-22 Site Z2,2/23/2022,Site Z2,9.36,61.05,0.71,212,Butterhead,Nebullam Des Moines
+01-26-22 Site Z2,1/26/2022,Site Z2,16.77,97.15,1.28,219,Butterhead,Nebullam Des Moines
+01-26-22 Site Z2,1/26/2022,Site Z2,13.01,55.15,1.16,189,Strawberries,Nebullam Des Moines
+12-29-21 Site Z2,12/29/2021,Site Z2,19.15,74.65,0.79,392,Rainbow Chard,Nebullam Des Moines
+12-01-21 Site Z2,12/1/2021,Site Z2,17.75,45.1,0.73,391,Rainbow Chard,Nebullam Des Moines
+11-03-21 Site Z2,11/3/2021,Site Z2,21.23,118.2,0.87,399,Rainbow Chard,Nebullam Des Moines
+10-06-21 Site Z2,10/6/2021,Site Z2,24,163.3,0.98,391,Rainbow Chard,Nebullam Des Moines
+09-08-21 Site Z2,9/8/2021,Site Z2,32.1,159.65,1.32,394,Rainbow Chard,Nebullam Des Moines
+08-11-21 Site Z2,8/11/2021,Site Z2,37.5,283.95,1.54,391,Rainbow Chard,Nebullam Des Moines
+07-14-21 Site Z2,7/14/2021,Site Z2,52.66,314.45,2.16,398,Rainbow Chard,Nebullam Des Moines
+06-14-21 Site Z2,6/14/2021,Site Z2,4.24,24.4,0.17,399,Rainbow Chard,Nebullam Des Moines
+05-17-21 Site Z2,5/17/2021,Site Z2,26.22,104.8,1.08,397,Rainbow Chard,Nebullam Des Moines
+04-19-21 Site Z2,4/19/2021,Site Z2,26.25,118.2,1.08,392,Rainbow Chard,Nebullam Des Moines
+03-22-21 Site Z2,3/22/2021,Site Z2,33.85,157.2,1.39,393,Rainbow Chard,Nebullam Des Moines
+02-22-21 Site Z2,2/22/2021,Site Z2,40.72,201.1,1.67,395,Rainbow Chard,Nebullam Des Moines
+01-22-21 Site Z2,1/22/2021,Site Z2,33.19,142.3,1.61,332,Rainbow Chard,Nebullam Des Moines
+12-24-20 Site Z2,12/24/2020,Site Z2,33.41,179.45,1.62,333,Rainbow Chard,Nebullam Des Moines
+11-27-20 Site Z2,11/27/2020,Site Z2,28.24,163.95,1.37,332,Rainbow Chard,Nebullam Des Moines
+10-29-20 Site Z2,10/29/2020,Site Z2,27.21,116.55,1.32,333,Rainbow Chard,Nebullam Des Moines
+10-01-20 Site Z2,10/1/2020,Site Z2,20.14,92.8,0.98,334,Rainbow Chard,Nebullam Des Moines
+06-22-22 Site Z3,6/22/2022,Site Z3,27,145.05,1.11,399,Butterhead,Nebullam Des Moines
+05-25-22 Site Z3,5/25/2022,Site Z3,31.3,156,1.28,398,Butterhead,Nebullam Des Moines
+04-27-22 Site Z3,4/27/2022,Site Z3,27.45,202.3,1.13,391,Butterhead,Nebullam Des Moines
+02-16-22 Site Z3,2/16/2022,Site Z3,35,244.95,1.44,399,Butterhead,Nebullam Des Moines
+01-19-22 Site Z3,1/19/2022,Site Z3,32.74,170.65,1.34,396,Butterhead,Nebullam Des Moines
+12-20-21 Site Z3,12/20/2021,Site Z3,14.5,65.8,0.59,391,Butterhead,Nebullam Des Moines
+11-24-21 Site Z3,11/24/2021,Site Z3,27,140.15,1.11,396,Rainbow Chard,Nebullam Des Moines
+10-27-21 Site Z3,10/27/2021,Site Z3,27.5,165.75,1.13,396,Rainbow Chard,Nebullam Des Moines
+09-29-21 Site Z3,9/29/2021,Site Z3,30.25,149.6,1.15,421,Rainbow Chard,Nebullam Des Moines
+09-01-21 Site Z3,9/1/2021,Site Z3,34.5,164.55,1.42,397,Rainbow Chard,Nebullam Des Moines
+08-04-21 Site Z3,8/4/2021,Site Z3,36.32,171.85,1.49,397,Rainbow Chard,Nebullam Des Moines
+07-07-21 Site Z3,7/7/2021,Site Z3,26.52,153.55,1.09,396,Rainbow Chard,Nebullam Des Moines
+07-05-21 Site Z3,7/5/2021,Site Z3,26.52,153.55,1.09,394,Rainbow Chard,Nebullam Des Moines
+06-07-21 Site Z3,6/7/2021,Site Z3,18.42,70.7,0.76,395,Rainbow Chard,Nebullam Des Moines
+05-10-21 Site Z3,5/10/2021,Site Z3,31.46,164.55,1.29,393,Rainbow Chard,Nebullam Des Moines
+04-12-21 Site Z3,4/12/2021,Site Z3,37.31,193.8,1.53,391,Rainbow Chard,Nebullam Des Moines
+03-15-21 Site Z3,3/15/2021,Site Z3,27.59,143.8,1.13,399,Rainbow Chard,Nebullam Des Moines
+02-15-21 Site Z3,2/15/2021,Site Z3,8.2,35.35,0.34,393,Rainbow Chard,Nebullam Des Moines
+01-27-21 Site Z3,1/27/2021,Site Z3,4.82,24.6,1.03,77,Rainbow Chard,Nebullam Des Moines
+01-22-21 Site Z3,1/22/2021,Site Z3,6.06,35.15,1.29,82,Rainbow Chard,Nebullam Des Moines
+01-14-21 Site Z3,1/14/2021,Site Z3,6.99,27.65,1.49,77,Rainbow Chard,Nebullam Des Moines
+01-08-21 Site Z3,1/8/2021,Site Z3,9.49,47.35,2.02,83,Rainbow Chard,Nebullam Des Moines
+12-30-20 Site Z3,12/30/2020,Site Z3,8.16,39.4,1.74,77,Rainbow Chard,Nebullam Des Moines
+12-24-20 Site Z3,12/24/2020,Site Z3,7.84,39.4,1.67,76,Rainbow Chard,Nebullam Des Moines
+12-17-20 Site Z3,12/17/2020,Site Z3,6.5,25.3,1.39,83,Rainbow Chard,Nebullam Des Moines
+12-10-20 Site Z3,12/10/2020,Site Z3,9.5,44.55,2.03,83,Rainbow Chard,Nebullam Des Moines
+12-02-20 Site Z3,12/2/2020,Site Z3,7,28.15,1.49,77,Rainbow Chard,Nebullam Des Moines
+11-27-20 Site Z3,11/27/2020,Site Z3,6.35,27.65,1.35,84,Rainbow Chard,Nebullam Des Moines
+11-18-20 Site Z3,11/18/2020,Site Z3,6.01,35.15,1.28,81,Rainbow Chard,Nebullam Des Moines
+06-15-22 Site Z4,6/15/2022,Site Z4,16,136.5,0.61,427,Butterhead,Nebullam Des Moines
+05-18-22 Site Z4,5/18/2022,Site Z4,22.31,131.25,0.85,422,Butterhead,Nebullam Des Moines
+04-20-22 Site Z4,4/20/2022,Site Z4,27,161.45,1.03,429,Butterhead,Nebullam Des Moines
+03-04-22 Site Z4,3/4/2022,Site Z4,10.15,78.75,0.39,421,Butterhead,Nebullam Des Moines
+01-19-22 Site Z4,1/19/2022,Site Z4,34.05,196.9,1.3,427,Butterhead,Nebullam Des Moines
+11-24-21 Site Z4,11/24/2021,Site Z4,20.3,101.05,0.77,425,Rainbow Chard,Nebullam Des Moines
+10-27-21 Site Z4,10/27/2021,Site Z4,30.81,162.75,1.17,425,Rainbow Chard,Nebullam Des Moines
+09-29-21 Site Z4,9/29/2021,Site Z4,29.75,150.95,1.13,425,Rainbow Chard,Nebullam Des Moines
+09-01-21 Site Z4,9/1/2021,Site Z4,24.5,185.05,0.93,427,Rainbow Chard,Nebullam Des Moines
+08-04-21 Site Z4,8/4/2021,Site Z4,37.17,177.2,1.42,429,Rainbow Chard,Nebullam Des Moines
+07-07-21 Site Z4,7/7/2021,Site Z4,25.81,119.45,0.98,426,Rainbow Chard,Nebullam Des Moines
+07-05-21 Site Z4,7/5/2021,Site Z4,25.81,119.45,0.98,424,Rainbow Chard,Nebullam Des Moines
+06-07-21 Site Z4,6/7/2021,Site Z4,10.48,49.9,0.4,422,Rainbow Chard,Nebullam Des Moines
+05-10-21 Site Z4,5/10/2021,Site Z4,32.47,133.9,1.24,427,Rainbow Chard,Nebullam Des Moines
+04-12-21 Site Z4,4/12/2021,Site Z4,37.2,203.45,1.42,428,Rainbow Chard,Nebullam Des Moines
+03-15-21 Site Z4,3/15/2021,Site Z4,44.25,221.8,1.69,422,Rainbow Chard,Nebullam Des Moines
+02-15-21 Site Z4,2/15/2021,Site Z4,28.25,129.95,1.08,428,Rainbow Chard,Nebullam Des Moines
+06-15-22 Site Z5,6/15/2022,Site Z5,24.25,147,0.92,429,Butterhead,Nebullam Des Moines
+05-18-22 Site Z5,5/18/2022,Site Z5,27.03,128.65,1.03,428,Butterhead,Nebullam Des Moines
+03-16-22 Site Z5,3/16/2022,Site Z5,26.6,150.95,1.01,428,Butterhead,Nebullam Des Moines
+02-09-22 Site Z5,2/9/2022,Site Z5,35.2,233.65,1.34,428,Butterhead,Nebullam Des Moines
+02-09-22 Site Z5,2/9/2022,Site Z5,35.2,233.65,1.34,428,Butterhead,Nebullam Des Moines
+01-12-22 Site Z5,1/12/2022,Site Z5,35.01,129.95,1.33,422,Butterhead,Nebullam Des Moines
+12-15-21 Site Z5,12/15/2021,Site Z5,12.65,49.9,0.48,421,Rainbow Chard,Nebullam Des Moines
+11-17-21 Site Z5,11/17/2021,Site Z5,21,148.3,0.8,426,Rainbow Chard,Nebullam Des Moines
+10-20-21 Site Z5,10/20/2021,Site Z5,26.4,129.95,1.01,425,Rainbow Chard,Nebullam Des Moines
+09-22-21 Site Z5,9/22/2021,Site Z5,34.5,180,1.38,409,Rainbow Chard,Nebullam Des Moines
+08-25-21 Site Z5,8/25/2021,Site Z5,42.5,175.9,1.62,428,Rainbow Chard,Nebullam Des Moines
+07-28-21 Site Z5,7/28/2021,Site Z5,46.22,269.35,1.9,399,Rainbow Chard,Nebullam Des Moines
+06-30-21 Site Z5,6/30/2021,Site Z5,38.04,141.75,1.45,425,Rainbow Chard,Nebullam Des Moines
+06-28-21 Site Z5,6/28/2021,Site Z5,38.04,141.75,1.45,426,Rainbow Chard,Nebullam Des Moines
+05-31-21 Site Z5,5/31/2021,Site Z5,43.14,250.7,1.64,422,Rainbow Chard,Nebullam Des Moines
+04-26-21 Site Z5,4/26/2021,Site Z5,32.51,144.4,1.24,423,Rainbow Chard,Nebullam Des Moines
+03-29-21 Site Z5,3/29/2021,Site Z5,33.72,190.3,1.28,428,Rainbow Chard,Nebullam Des Moines
+06-01-22 Site Z6,6/1/2022,Site Z6,40,154.9,1.52,422,Butterhead,Nebullam Des Moines
+05-06-22 Site Z6,5/6/2022,Site Z6,5.78,67.9,0.29,319,Butterhead,Nebullam Des Moines
+05-04-22 Site Z6,5/4/2022,Site Z6,5.78,67.9,0.29,321,Butterhead,Nebullam Des Moines
+03-02-22 Site Z6,3/2/2022,Site Z6,40,246.1,1.52,421,Butterhead,Nebullam Des Moines
+01-26-22 Site Z6,1/26/2022,Site Z6,55.36,345.2,2.11,421,Butterhead,Nebullam Des Moines
+12-22-21 Site Z6,12/22/2021,Site Z6,17.03,98.45,0.65,421,Butterhead,Nebullam Des Moines
+11-17-21 Site Z6,11/17/2021,Site Z6,24,131.25,0.91,429,Rainbow Chard,Nebullam Des Moines
+10-20-21 Site Z6,10/20/2021,Site Z6,30.2,136.5,1.15,424,Rainbow Chard,Nebullam Des Moines
+09-22-21 Site Z6,9/22/2021,Site Z6,34.63,141.75,1.32,421,Rainbow Chard,Nebullam Des Moines
+08-25-21 Site Z6,8/25/2021,Site Z6,46.11,210,1.76,421,Rainbow Chard,Nebullam Des Moines
+07-28-21 Site Z6,7/28/2021,Site Z6,47.63,195.55,1.81,429,Rainbow Chard,Nebullam Des Moines
+06-30-21 Site Z6,6/30/2021,Site Z6,4.29,150.95,0.16,422,Rainbow Chard,Nebullam Des Moines
+06-28-21 Site Z6,6/28/2021,Site Z6,40.29,150.95,1.53,422,Rainbow Chard,Nebullam Des Moines
+05-31-21 Site Z6,5/31/2021,Site Z6,43.62,212.65,1.66,429,Rainbow Chard,Nebullam Des Moines
+04-26-21 Site Z6,4/26/2021,Site Z6,30.4,136.5,1.16,421,Rainbow Chard,Nebullam Des Moines
+03-29-21 Site Z6,3/29/2021,Site Z6,42.96,197.65,1.8,388,Rainbow Chard,Nebullam Des Moines
+06-01-22 Site Y1,6/1/2022,Site Y1,34.65,195,1.42,396,Butterhead,Nebullam Minneapolis
+05-06-22 Site Y1,5/6/2022,Site Y1,30.45,134.05,1.25,393,Butterhead,Nebullam Minneapolis
+05-04-22 Site Y1,5/4/2022,Site Y1,30.45,135.3,1.25,397,Butterhead,Nebullam Minneapolis
+03-02-22 Site Y1,3/2/2022,Site Y1,30.5,134.05,1.25,391,Butterhead,Nebullam Minneapolis
+01-26-22 Site Y1,1/26/2022,Site Y1,38.4,243.75,1.58,397,Butterhead,Nebullam Minneapolis
+12-29-21 Site Y1,12/29/2021,Site Y1,22.46,101.15,0.92,399,Butterhead,Nebullam Minneapolis
+12-01-21 Site Y1,12/1/2021,Site Y1,34.34,124.3,1.41,392,Rainbow Chard,Nebullam Minneapolis
+10-27-21 Site Y1,10/27/2021,Site Y1,30.88,134.05,1.27,393,Rainbow Chard,Nebullam Minneapolis
+09-22-21 Site Y1,9/22/2021,Site Y1,29.25,147.45,1.2,399,Rainbow Chard,Nebullam Minneapolis
+08-25-21 Site Y1,8/25/2021,Site Y1,33.73,165.75,1.38,396,Rainbow Chard,Nebullam Minneapolis
+07-28-21 Site Y1,7/28/2021,Site Y1,43.22,190.15,1.77,398,Rainbow Chard,Nebullam Minneapolis
+06-30-21 Site Y1,6/30/2021,Site Y1,33.52,159.65,1.38,391,Rainbow Chard,Nebullam Minneapolis
+06-28-21 Site Y1,6/28/2021,Site Y1,33.52,159.65,1.38,397,Rainbow Chard,Nebullam Minneapolis
+05-31-21 Site Y1,5/31/2021,Site Y1,41.48,244.95,1.7,397,Rainbow Chard,Nebullam Minneapolis
+01-27-21 Site Y1,1/27/2021,Site Y1,14.02,60.85,0.68,338,Rainbow Chard,Nebullam Minneapolis
+12-30-20 Site Y1,12/30/2020,Site Y1,37,181.5,1.79,337,Rainbow Chard,Nebullam Minneapolis
+12-02-20 Site Y1,12/2/2020,Site Y1,7.34,46.9,0.39,308,Rainbow Chard,Nebullam Minneapolis
+11-05-20 Site Y1,11/5/2020,Site Y1,43.27,226.9,2.1,332,Rainbow Chard,Nebullam Minneapolis
+10-08-20 Site Y1,10/8/2020,Site Y1,28.92,119.6,1.4,332,Rainbow Chard,Nebullam Minneapolis
+06-08-22 Site Y2,6/8/2022,Site Y2,28.09,184.05,1.15,397,Butterhead,Nebullam Minneapolis
+05-13-22 Site Y2,5/13/2022,Site Y2,21.77,128.65,0.83,428,Butterhead,Nebullam Minneapolis
+05-11-22 Site Y2,5/11/2022,Site Y2,21.77,128.65,0.83,427,Butterhead,Nebullam Minneapolis
+04-15-22 Site Y2,4/15/2022,Site Y2,33.05,223.05,1.36,393,Butterhead,Nebullam Minneapolis
+04-15-22 Site Y2,4/15/2022,Site Y2,33.05,223.05,1.36,395,Butterhead,Nebullam Minneapolis
+03-09-22 Site Y2,3/9/2022,Site Y2,27.5,156,1.13,393,Butterhead,Nebullam Minneapolis
+02-09-22 Site Y2,2/9/2022,Site Y2,31.7,185.25,1.3,392,Butterhead,Nebullam Minneapolis
+02-09-22 Site Y2,2/9/2022,Site Y2,31.7,185.25,1.3,398,Butterhead,Nebullam Minneapolis
+01-12-22 Site Y2,1/12/2022,Site Y2,31.29,168.2,1.28,395,Butterhead,Nebullam Minneapolis
+12-15-21 Site Y2,12/15/2021,Site Y2,18.5,85.3,0.76,395,Rainbow Chard,Nebullam Minneapolis
+11-03-21 Site Y2,11/3/2021,Site Y2,21.14,61.9,0.94,369,Rainbow Chard,Nebullam Minneapolis
+10-06-21 Site Y2,10/6/2021,Site Y2,34.83,180,1.55,366,Rainbow Chard,Nebullam Minneapolis
+09-01-21 Site Y2,9/1/2021,Site Y2,17.5,123.75,0.78,366,Rainbow Chard,Nebullam Minneapolis
+08-04-21 Site Y2,8/4/2021,Site Y2,32.75,157.5,1.46,368,Rainbow Chard,Nebullam Minneapolis
+07-07-21 Site Y2,7/7/2021,Site Y2,27.62,119.25,1.23,362,Rainbow Chard,Nebullam Minneapolis
+07-05-21 Site Y2,7/5/2021,Site Y2,27.62,119.25,1.23,369,Rainbow Chard,Nebullam Minneapolis
+06-07-21 Site Y2,6/7/2021,Site Y2,25.25,108,1.12,361,Rainbow Chard,Nebullam Minneapolis
+01-27-21 Site Y2,1/27/2021,Site Y2,14.8,65.25,0.66,365,Rainbow Chard,Nebullam Minneapolis
+12-30-20 Site Y2,12/30/2020,Site Y2,41.84,286.85,1.86,365,Rainbow Chard,Nebullam Minneapolis
+12-02-20 Site Y2,12/2/2020,Site Y2,13.56,77.6,0.6,365,Rainbow Chard,Nebullam Minneapolis
+11-05-20 Site Y2,11/5/2020,Site Y2,52.07,289.8,2.52,331,Rainbow Chard,Nebullam Minneapolis
+10-08-20 Site Y2,10/8/2020,Site Y2,40.92,199.05,1.98,334,Rainbow Chard,Nebullam Minneapolis
+06-22-22 Site Y3,6/22/2022,Site Y3,33.02,223.05,1.35,396,Butterhead,Nebullam Minneapolis
+05-25-22 Site Y3,5/25/2022,Site Y3,33.6,241.3,1.38,397,Butterhead,Nebullam Minneapolis
+02-23-22 Site Y3,2/23/2022,Site Y3,27.3,176.7,1.12,393,Butterhead,Nebullam Minneapolis
+01-19-22 Site Y3,1/19/2022,Site Y3,37.58,155.4,1.54,391,Butterhead,Nebullam Minneapolis
+12-22-21 Site Y3,12/22/2021,Site Y3,21,103.6,0.86,391,Butterhead,Nebullam Minneapolis
+11-17-21 Site Y3,11/17/2021,Site Y3,23.25,127.95,0.95,393,Rainbow Chard,Nebullam Minneapolis
+10-13-21 Site Y3,10/13/2021,Site Y3,23.31,125.55,0.96,394,Rainbow Chard,Nebullam Minneapolis
+09-08-21 Site Y3,9/8/2021,Site Y3,28.2,108.45,1.16,391,Rainbow Chard,Nebullam Minneapolis
+08-11-21 Site Y3,8/11/2021,Site Y3,41.3,198.65,1.69,399,Rainbow Chard,Nebullam Minneapolis
+07-14-21 Site Y3,7/14/2021,Site Y3,38.59,165.75,1.58,399,Rainbow Chard,Nebullam Minneapolis
+06-14-21 Site Y3,6/14/2021,Site Y3,36.08,204.75,1.48,394,Rainbow Chard,Nebullam Minneapolis
+06-08-22 Site Y4,6/8/2022,Site Y4,29.45,169.3,1.12,425,Butterhead,Nebullam Minneapolis
+05-13-22 Site Y4,5/13/2022,Site Y4,27.45,158.8,1.05,421,Butterhead,Nebullam Minneapolis
+05-11-22 Site Y4,5/11/2022,Site Y4,27.45,158.8,1.05,425,Butterhead,Nebullam Minneapolis
+04-15-22 Site Y4,4/15/2022,Site Y4,38.6,263.8,1.47,424,Butterhead,Nebullam Minneapolis
+04-15-22 Site Y4,4/15/2022,Site Y4,38.6,263.8,1.47,425,Butterhead,Nebullam Minneapolis
+03-09-22 Site Y4,3/9/2022,Site Y4,33.25,167.35,1.27,427,Butterhead,Nebullam Minneapolis
+02-02-22 Site Y4,2/2/2022,Site Y4,36.75,220.5,1.4,426,Butterhead,Nebullam Minneapolis
+12-29-21 Site Y4,12/29/2021,Site Y4,20,89.25,0.76,428,Butterhead,Nebullam Minneapolis
+12-01-21 Site Y4,12/1/2021,Site Y4,35.3,174.55,1.34,428,Rainbow Chard,Nebullam Minneapolis
+10-20-21 Site Y4,10/20/2021,Site Y4,25.25,147,0.96,426,Rainbow Chard,Nebullam Minneapolis
+09-15-21 Site Y4,9/15/2021,Site Y4,44.3,198.2,1.69,427,Rainbow Chard,Nebullam Minneapolis
+09-15-21 Site Y4,9/15/2021,Site Y4,44.3,198.2,1.69,421,Rainbow Chard,Nebullam Minneapolis
+08-18-21 Site Y4,8/18/2021,Site Y4,35.25,156.2,1.34,427,Rainbow Chard,Nebullam Minneapolis
+07-21-21 Site Y4,7/21/2021,Site Y4,48.24,213.95,1.84,426,Rainbow Chard,Nebullam Minneapolis
+06-23-21 Site Y4,6/23/2021,Site Y4,29.81,118.15,1.14,423,Rainbow Chard,Nebullam Minneapolis
+06-21-21 Site Y4,6/21/2021,Site Y4,29.81,118.15,1.14,426,Rainbow Chard,Nebullam Minneapolis
+06-15-22 Site Y5,6/15/2022,Site Y5,25.4,190.3,0.97,429,Butterhead,Nebullam Minneapolis
+05-18-22 Site Y5,5/18/2022,Site Y5,27.24,154.9,1.04,423,Butterhead,Nebullam Minneapolis
+02-16-22 Site Y5,2/16/2022,Site Y5,31.75,200.8,1.21,428,Butterhead,Nebullam Minneapolis
+01-12-22 Site Y5,1/12/2022,Site Y5,34.1,144.4,1.3,424,Butterhead,Nebullam Minneapolis
+12-15-21 Site Y5,12/15/2021,Site Y5,22.75,0,0.87,426,Rainbow Chard,Nebullam Minneapolis
+11-10-21 Site Y5,11/10/2021,Site Y5,16,57.75,0.61,421,Rainbow Chard,Nebullam Minneapolis
+10-13-21 Site Y5,10/13/2021,Site Y5,28.6,103.6,1.17,399,Rainbow Chard,Nebullam Minneapolis
+09-08-21 Site Y5,9/8/2021,Site Y5,34,132.55,1.3,427,Rainbow Chard,Nebullam Minneapolis
+08-11-21 Site Y5,8/11/2021,Site Y5,43.5,246.75,1.66,429,Rainbow Chard,Nebullam Minneapolis
+07-14-21 Site Y5,7/14/2021,Site Y5,27.18,121.4,2.07,219,Rainbow Chard,Nebullam Minneapolis
+07-07-21 Site Y5,7/7/2021,Site Y5,18.44,88.6,1.4,214,Rainbow Chard,Nebullam Minneapolis
+07-05-21 Site Y5,7/5/2021,Site Y5,18.44,88.6,1.4,213,Rainbow Chard,Nebullam Minneapolis
+06-22-22 Site Y6,6/22/2022,Site Y6,16.75,0,2.55,107,Swiss Xhard,Nebullam Minneapolis
+06-08-22 Site Y6,6/8/2022,Site Y6,15.44,50.2,2.35,109,Swiss Xhard,Nebullam Minneapolis
+05-11-22 Site Y6,5/11/2022,Site Y6,17.2,93.5,0.87,317,Butterhead,Nebullam Minneapolis
+05-06-22 Site Y6,5/6/2022,Site Y6,17.2,93.5,0.87,318,Butterhead,Nebullam Minneapolis
+04-15-22 Site Y6,4/15/2022,Site Y6,33.5,246.75,1.28,426,Butterhead,Nebullam Minneapolis
+04-15-22 Site Y6,4/15/2022,Site Y6,33.5,246.75,1.28,428,Butterhead,Nebullam Minneapolis
+03-09-22 Site Y6,3/9/2022,Site Y6,31.25,175.9,1.19,426,Butterhead,Nebullam Minneapolis
+12-29-21 Site Y6,12/29/2021,Site Y6,21.5,104.8,0.88,399,Butterhead,Nebullam Minneapolis
+11-03-21 Site Y6,11/3/2021,Site Y6,28,103.7,1.07,429,Rainbow Chard,Nebullam Minneapolis
+10-06-21 Site Y6,10/6/2021,Site Y6,17,0,1.3,217,Rainbow Chard,Nebullam Minneapolis
+09-29-21 Site Y6,9/29/2021,Site Y6,22.5,81.35,0.86,426,Rainbow Chard,Nebullam Minneapolis
+08-25-21 Site Y6,8/25/2021,Site Y6,16.8,85.3,1.28,219,Rainbow Chard,Nebullam Minneapolis
+08-04-21 Site Y6,8/4/2021,Site Y6,34,158.8,2.59,217,Rainbow Chard,Nebullam Minneapolis
+07-28-21 Site Y6,7/28/2021,Site Y6,23,131.25,1.75,212,Rainbow Chard,Nebullam Minneapolis
+06-15-22 Site X,6/15/2022,Site X,15.4,0,1.94,131,Swiss Xhard,Nebullam Dallas
+06-02-22 Site X,6/2/2022,Site X,27,0,3.15,142,Swiss Xhard,Nebullam Dallas
+05-25-22 Site X,5/25/2022,Site X,28.6,0,4.12,118,Swiss Xhard,Nebullam Dallas
+05-11-22 Site X,5/11/2022,Site X,39.7,0,3.47,187,Swiss Xhard,Nebullam Dallas
+05-04-22 Site X,5/4/2022,Site X,27.05,0,2.61,175,Swiss Xhard,Nebullam Dallas
+04-27-22 Site X,4/27/2022,Site X,19.6,0,2.53,131,Swiss Xhard,Nebullam Dallas
+04-20-22 Site X,4/20/2022,Site X,19.5,0,3.76,84,Swiss Xhard,Nebullam Dallas
+03-16-22 Site X,3/16/2022,Site X,15.82,0,2.18,117,Swiss Xhard,Nebullam Dallas
+02-02-22 Site X,2/2/2022,Site X,49,298.15,2.61,309,Butterhead,Nebullam Dallas
+01-05-22 Site X,1/5/2022,Site X,34.2,168.75,1.82,309,Butterhead,Nebullam Dallas
+12-08-21 Site X,12/8/2021,Site X,24.1,131.25,1.29,309,Rainbow Chard,Nebullam Dallas
+11-10-21 Site X,11/10/2021,Site X,29.25,187.5,1.56,301,Rainbow Chard,Nebullam Dallas
+10-13-21 Site X,10/13/2021,Site X,34.27,105,1.83,309,Rainbow Chard,Nebullam Dallas
+09-15-21 Site X,9/15/2021,Site X,34.5,204.4,1.84,305,Rainbow Chard,Nebullam Dallas
+09-15-21 Site X,9/15/2021,Site X,34.5,204.4,1.84,306,Rainbow Chard,Nebullam Dallas
+08-18-21 Site X,8/18/2021,Site X,24,114.45,1.16,339,Rainbow Chard,Nebullam Dallas
+07-21-21 Site X,7/21/2021,Site X,40.82,190.8,1.98,336,Rainbow Chard,Nebullam Dallas
+06-23-21 Site X,6/23/2021,Site X,61.34,346,1.37,720,Rainbow Chard,Nebullam Dallas
+06-21-21 Site X,6/21/2021,Site X,61.34,346,1.37,723,Rainbow Chard,Nebullam Dallas
+05-24-21 Site X,5/24/2021,Site X,37.57,184.6,1.82,334,Rainbow Chard,Nebullam Dallas
+05-03-21 Site X,5/3/2021,Site X,29.05,163.15,1.55,306,Rainbow Chard,Nebullam Dallas
+04-05-21 Site X,4/5/2021,Site X,21.8,96.9,1.13,311,Rainbow Chard,Nebullam Dallas
+03-01-21 Site X,3/1/2021,Site X,26.53,106.2,1.29,332,Rainbow Chard,Nebullam Dallas
+02-04-21 Site X,2/4/2021,Site X,14.65,66.55,0.78,302,Rainbow Chard,Nebullam Dallas
+01-08-21 Site X,1/8/2021,Site X,25.85,122.7,1.25,332,Rainbow Chard,Nebullam Dallas
+12-10-20 Site X,12/10/2020,Site X,30.05,122.7,1.46,331,Rainbow Chard,Nebullam Dallas
+11-11-20 Site X,11/11/2020,Site X,16.32,46.4,0.79,335,Rainbow Chard,Nebullam Dallas
+10-16-20 Site X,10/16/2020,Site X,43.19,226.9,2.09,336,Rainbow Chard,Nebullam Dallas
+06-22-22 Site X2,6/22/2022,Site X2,8.6,67.05,0.35,394,Strawberries,Nebullam Dallas
+05-25-22 Site X2,5/25/2022,Site X2,10.25,52.4,0.42,397,Strawberries,Nebullam Dallas
+04-27-22 Site X2,4/27/2022,Site X2,30.5,170.65,1.25,393,Butterhead,Nebullam Dallas
+03-02-22 Site X2,3/2/2022,Site X2,21.25,147.65,1.62,212,Butterhead,Nebullam Dallas
+03-02-22 Site X2,3/2/2022,Site X2,13.95,109.15,1.24,184,Strawberries,Nebullam Dallas
+02-02-22 Site X2,2/2/2022,Site X2,47,243.75,1.93,397,Butterhead,Nebullam Dallas
+01-05-22 Site X2,1/5/2022,Site X2,32.2,165.75,1.32,397,Butterhead,Nebullam Dallas
+12-08-21 Site X2,12/8/2021,Site X2,26,141.4,1.07,393,Rainbow Chard,Nebullam Dallas
+11-10-21 Site X2,11/10/2021,Site X2,19.5,153.55,0.8,391,Rainbow Chard,Nebullam Dallas
+10-13-21 Site X2,10/13/2021,Site X2,28,103.15,1.36,339,Rainbow Chard,Nebullam Dallas
+09-15-21 Site X2,9/15/2021,Site X2,26,139.2,1.26,335,Rainbow Chard,Nebullam Dallas
+09-15-21 Site X2,9/15/2021,Site X2,26,139.2,1.26,333,Rainbow Chard,Nebullam Dallas
+08-18-21 Site X2,8/18/2021,Site X2,25.84,144.35,1.25,332,Rainbow Chard,Nebullam Dallas
+07-21-21 Site X2,7/21/2021,Site X2,27.87,129.95,1.35,333,Rainbow Chard,Nebullam Dallas
+05-24-21 Site X2,5/24/2021,Site X2,16.8,89.7,0.81,331,Rainbow Chard,Nebullam Dallas
+05-03-21 Site X2,5/3/2021,Site X2,20.78,114.45,1.01,339,Rainbow Chard,Nebullam Dallas
+04-05-21 Site X2,4/5/2021,Site X2,24.94,112.2,1.4,291,Rainbow Chard,Nebullam Dallas
+03-08-21 Site X2,3/8/2021,Site X2,30.43,147.45,1.48,332,Rainbow Chard,Nebullam Dallas
+02-08-21 Site X2,2/8/2021,Site X2,15.5,71.15,0.75,339,Rainbow Chard,Nebullam Dallas
+01-14-21 Site X2,1/14/2021,Site X2,27.48,154.7,1.33,335,Rainbow Chard,Nebullam Dallas
+12-17-20 Site X2,12/17/2020,Site X2,23.74,148.5,1.15,338,Rainbow Chard,Nebullam Dallas
+11-18-20 Site X2,11/18/2020,Site X2,15.34,68.05,0.74,333,Rainbow Chard,Nebullam Dallas
+10-23-20 Site X2,10/23/2020,Site X2,35.35,229.95,1.71,337,Rainbow Chard,Nebullam Dallas
+05-13-22 Site X3,5/13/2022,Site X3,39.7,0,3.47,184,Swiss Xhard,Nebullam Dallas
+05-06-22 Site X3,5/6/2022,Site X3,27.05,0,2.61,170,Swiss Xhard,Nebullam Dallas
+02-02-22 Site X3,2/2/2022,Site X3,14,70.9,1.07,217,Butterhead,Nebullam Dallas
+02-02-22 Site X3,2/2/2022,Site X3,10,72.85,0.76,216,Strawberries,Nebullam Dallas
+01-05-22 Site X3,1/5/2022,Site X3,10.5,132.55,0.4,421,Butterhead,Nebullam Dallas
+12-08-21 Site X3,12/8/2021,Site X3,17.5,126,0.67,428,Rainbow Chard,Nebullam Dallas
+11-10-21 Site X3,11/10/2021,Site X3,20.5,126,0.78,422,Rainbow Chard,Nebullam Dallas
+06-22-22 Site W1,6/22/2022,Site W1,24.86,154.9,1.89,218,Strawberries,Nebullam Palo Alto
+05-25-22 Site W1,5/25/2022,Site W1,23.88,203.45,0.91,428,Strawberries,Nebullam Palo Alto
+04-27-22 Site W1,4/27/2022,Site W1,22.75,105,1.73,219,Strawberries,Nebullam Palo Alto
+03-02-22 Site W1,3/2/2022,Site W1,25.7,205.1,0.98,421,Strawberries,Nebullam Palo Alto
+02-02-22 Site W1,2/2/2022,Site W1,33.65,162.75,1.28,429,Strawberries,Nebullam Palo Alto
+01-05-22 Site W1,1/5/2022,Site W1,22.3,112.9,0.85,429,Strawberries,Nebullam Palo Alto
+12-08-21 Site W1,12/8/2021,Site W1,29.25,190.3,1.11,422,Rainbow Chard,Nebullam Palo Alto
+11-10-21 Site W1,11/10/2021,Site W1,31.36,175.9,1.19,423,Rainbow Chard,Nebullam Palo Alto
+10-13-21 Site W1,10/13/2021,Site W1,35,152.25,1.33,422,Rainbow Chard,Nebullam Palo Alto
+09-15-21 Site W1,9/15/2021,Site W1,34.75,187.7,1.32,422,Rainbow Chard,Nebullam Palo Alto
+06-01-22 Site W2,6/1/2022,Site W2,32.48,148.3,2.47,218,Strawberries,Nebullam Palo Alto
+05-06-22 Site W2,5/6/2022,Site W2,37,171.95,1.41,428,Strawberries,Nebullam Palo Alto
+05-04-22 Site W2,5/4/2022,Site W2,37,171.95,1.41,425,Strawberries,Nebullam Palo Alto
+03-09-22 Site W2,3/9/2022,Site W2,23.45,182.45,0.89,424,Strawberries,Nebullam Palo Alto
+02-09-22 Site W2,2/9/2022,Site W2,20.83,154.9,1.59,215,Butterhead,Nebullam Palo Alto
+02-09-22 Site W2,2/9/2022,Site W2,20.83,154.9,1.59,213,Butterhead,Nebullam Palo Alto
+02-09-22 Site W2,2/9/2022,Site W2,15.75,100.4,1.2,216,Strawberries,Nebullam Palo Alto
+02-09-22 Site W2,2/9/2022,Site W2,15.75,100.4,1.2,217,Strawberries,Nebullam Palo Alto
+01-12-22 Site W2,1/12/2022,Site W2,19.22,201.75,0.73,429,Butterhead,Nebullam Palo Alto
+12-15-21 Site W2,12/15/2021,Site W2,36,171.95,1.37,429,Rainbow Chard,Nebullam Palo Alto
+11-17-21 Site W2,11/17/2021,Site W2,40,213.95,1.52,422,Rainbow Chard,Nebullam Palo Alto
+10-20-21 Site W2,10/20/2021,Site W2,24.6,144.4,0.94,422,Rainbow Chard,Nebullam Palo Alto
+09-22-21 Site W2,9/22/2021,Site W2,54.25,347.8,2.07,429,Rainbow Chard,Nebullam Palo Alto
+06-01-22 Site W3,6/1/2022,Site W3,32.62,140.45,2.49,213,Strawberries,Nebullam Palo Alto
+05-06-22 Site W3,5/6/2022,Site W3,21.77,118.15,1.66,213,Strawberries,Nebullam Palo Alto
+05-04-22 Site W3,5/4/2022,Site W3,21.77,118.15,1.66,214,Strawberries,Nebullam Palo Alto
+03-09-22 Site W3,3/9/2022,Site W3,18.4,91.9,1.4,211,Butterhead,Nebullam Palo Alto
+03-09-22 Site W3,3/9/2022,Site W3,11.5,72.2,0.88,219,Strawberries,Nebullam Palo Alto
+02-09-22 Site W3,2/9/2022,Site W3,33.35,189,1.27,428,Strawberries,Nebullam Palo Alto
+02-09-22 Site W3,2/9/2022,Site W3,33.34,189,1.27,428,Strawberries,Nebullam Palo Alto
+01-12-22 Site W3,1/12/2022,Site W3,25.2,158.8,0.96,423,Strawberries,Nebullam Palo Alto
+12-15-21 Site W3,12/15/2021,Site W3,35.5,143.05,1.35,428,Rainbow Chard,Nebullam Palo Alto
+11-17-21 Site W3,11/17/2021,Site W3,42.95,213.95,1.64,429,Rainbow Chard,Nebullam Palo Alto
+10-20-21 Site W3,10/20/2021,Site W3,26,118.15,0.99,424,Rainbow Chard,Nebullam Palo Alto
+09-22-21 Site W3,9/22/2021,Site W3,50.25,0,1.91,428,Rainbow Chard,Nebullam Palo Alto
+06-15-22 Site W4,6/15/2022,Site W4,35.38,182.45,1.35,426,Butterhead,Nebullam Palo Alto
+05-13-22 Site W4,5/13/2022,Site W4,23.4,114.85,1.78,217,Strawberries,Nebullam Palo Alto
+05-11-22 Site W4,5/11/2022,Site W4,23.4,114.85,1.78,219,Strawberries,Nebullam Palo Alto
+04-15-22 Site W4,4/15/2022,Site W4,35.21,236.25,1.34,423,Strawberries,Nebullam Palo Alto
+04-15-22 Site W4,4/15/2022,Site W4,35.21,236.25,1.34,422,Strawberries,Nebullam Palo Alto
+03-16-22 Site W4,3/16/2022,Site W4,26.5,131.25,1.01,424,Strawberries,Nebullam Palo Alto
+02-16-22 Site W4,2/16/2022,Site W4,28.6,182.45,1.09,426,Strawberries,Nebullam Palo Alto
+01-19-22 Site W4,1/19/2022,Site W4,13.95,85.3,1.06,215,Butterhead,Nebullam Palo Alto
+01-19-22 Site W4,1/19/2022,Site W4,11.95,47.9,0.91,211,Strawberries,Nebullam Palo Alto
+12-22-21 Site W4,12/22/2021,Site W4,10,56.25,0.53,308,Strawberries,Nebullam Palo Alto
+12-22-21 Site W4,12/22/2021,Site W4,6.5,32.25,0.87,124,Butterhead,Nebullam Palo Alto
+11-24-21 Site W4,11/24/2021,Site W4,35.6,202.15,1.36,424,Rainbow Chard,Nebullam Palo Alto
+10-27-21 Site W4,10/27/2021,Site W4,30.25,143.05,1.15,428,Rainbow Chard,Nebullam Palo Alto
+09-29-21 Site W4,9/29/2021,Site W4,50.2,288.75,1.91,423,Rainbow Chard,Nebullam Palo Alto
+06-08-22 Site W5,6/8/2022,Site W5,32.77,215.25,1.25,425,Butterhead,Nebullam Palo Alto
+05-13-22 Site W5,5/13/2022,Site W5,24.6,116.8,1.87,214,Strawberries,Nebullam Palo Alto
+05-11-22 Site W5,5/11/2022,Site W5,24.6,116.8,1.87,214,Strawberries,Nebullam Palo Alto
+04-15-22 Site W5,4/15/2022,Site W5,33.8,192.3,2.58,214,Strawberries,Nebullam Palo Alto
+04-15-22 Site W5,4/15/2022,Site W5,33.8,192.3,2.58,211,Strawberries,Nebullam Palo Alto
+03-16-22 Site W5,3/16/2022,Site W5,14.96,96.45,1.14,214,Butterhead,Nebullam Palo Alto
+03-16-22 Site W5,3/16/2022,Site W5,11.95,59.05,0.91,211,Strawberries,Nebullam Palo Alto
+02-16-22 Site W5,2/16/2022,Site W5,17.35,105,1.32,212,Butterhead,Nebullam Palo Alto
+02-16-22 Site W5,2/16/2022,Site W5,15.3,111.55,1.17,217,Strawberries,Nebullam Palo Alto
+01-19-22 Site W5,1/19/2022,Site W5,32.05,139.15,1.22,429,Butterhead,Nebullam Palo Alto
+12-22-21 Site W5,12/22/2021,Site W5,18,108.95,0.69,426,Strawberries,Nebullam Palo Alto
+11-24-21 Site W5,11/24/2021,Site W5,32.3,175.9,1.23,421,Rainbow Chard,Nebullam Palo Alto
+10-27-21 Site W5,10/27/2021,Site W5,32.25,187.7,1.23,426,Rainbow Chard,Nebullam Palo Alto
+09-29-21 Site W5,9/29/2021,Site W5,47,393.75,1.79,423,Rainbow Chard,Nebullam Palo Alto
+06-15-22 Site W6,6/15/2022,Site W6,21.3,105,1.62,214,Strawberries,Nebullam Palo Alto
+05-18-22 Site W6,5/18/2022,Site W6,6.8,67.6,0.52,215,Strawberries,Nebullam Palo Alto
+04-20-22 Site W6,4/20/2022,Site W6,30.19,85.3,2.3,217,Strawberries,Nebullam Palo Alto
+04-20-22 Site W6,4/20/2022,Site W6,11.9,0,0.91,215,Butterhead,Nebullam Palo Alto
+02-23-22 Site W6,2/23/2022,Site W6,33,182.45,1.26,424,Strawberries,Nebullam Palo Alto
+01-26-22 Site W6,1/26/2022,Site W6,25.15,148.3,0.96,422,Strawberries,Nebullam Palo Alto
+12-29-21 Site W6,12/29/2021,Site W6,7.2,16.5,1.44,88,Butterhead,Nebullam Palo Alto
+12-29-21 Site W6,12/29/2021,Site W6,6.63,23.9,0.31,341,Strawberries,Nebullam Palo Alto
+12-01-21 Site W6,12/1/2021,Site W6,36.4,178.5,1.39,424,Rainbow Chard,Nebullam Palo Alto
+10-06-21 Site W6,10/6/2021,Site W6,31,0,1.18,421,Rainbow Chard,Nebullam Palo Alto
+01-03-21 Site W6,1/3/2021,Site W6,33.11,194.25,1.26,422,Rainbow Chard,Nebullam Palo Alto
+06-08-22 Site V1,6/8/2022,Site V1,33,194.25,1.26,428,Butterhead,Nebullam Bozeman
+05-13-22 Site V1,5/13/2022,Site V1,28.1,174.55,1.07,427,Butterhead,Nebullam Bozeman
+05-11-22 Site V1,5/11/2022,Site V1,28.1,174.55,1.07,421,Butterhead,Nebullam Bozeman
+04-15-22 Site V1,4/15/2022,Site V1,37.25,221.8,1.42,421,Butterhead,Nebullam Bozeman
+04-15-22 Site V1,4/15/2022,Site V1,37.25,221.8,1.42,425,Butterhead,Nebullam Bozeman
+03-16-22 Site V1,3/16/2022,Site V1,31.53,154.9,1.2,426,Butterhead,Nebullam Bozeman
+02-16-22 Site V1,2/16/2022,Site V1,32.7,320.25,1.25,424,Butterhead,Nebullam Bozeman
+02-09-22 Site V1,2/9/2022,Site V1,29.1,171.95,2.22,215,Butterhead,Nebullam Bozeman
+10-13-21 Site V1,10/13/2021,Site V1,4.5,0,1.5,54,Rainbow Chard,Nebullam Bozeman
+08-11-21 Site V1,8/11/2021,Site V1,8,28.2,2.67,51,Rainbow Chard,Nebullam Bozeman
+08-04-21 Site V1,8/4/2021,Site V1,5,27.45,1.67,49,Rainbow Chard,Nebullam Bozeman
+07-14-21 Site V1,7/14/2021,Site V1,6.31,25.5,2.1,51,Rainbow Chard,Nebullam Bozeman
+07-07-21 Site V1,7/7/2021,Site V1,6.58,20.7,2.19,56,Rainbow Chard,Nebullam Bozeman
+07-05-21 Site V1,7/5/2021,Site V1,6.58,20.7,2.19,52,Rainbow Chard,Nebullam Bozeman
+06-14-21 Site V1,6/14/2021,Site V1,6.96,22.5,2.32,55,Rainbow Chard,Nebullam Bozeman
+06-07-21 Site V1,6/7/2021,Site V1,8.96,40.2,2.99,57,Rainbow Chard,Nebullam Bozeman
+05-17-21 Site V1,5/17/2021,Site V1,4.78,23.7,1.59,53,Rainbow Chard,Nebullam Bozeman
+05-10-21 Site V1,5/10/2021,Site V1,5.6,33.75,1.87,53,Rainbow Chard,Nebullam Bozeman
+04-19-21 Site V1,4/19/2021,Site V1,9.48,38.25,3.16,50,Rainbow Chard,Nebullam Bozeman
+04-12-21 Site V1,4/12/2021,Site V1,4.6,21,1.53,54,Rainbow Chard,Nebullam Bozeman
+02-15-21 Site V1,2/15/2021,Site V1,4.85,20.7,1.62,51,Rainbow Chard,Nebullam Bozeman
+02-04-21 Site V1,2/4/2021,Site V1,5.43,25.5,1.81,57,Rainbow Chard,Nebullam Bozeman
+01-22-21 Site V1,1/22/2021,Site V1,4.28,20.7,1.43,53,Rainbow Chard,Nebullam Bozeman
+01-08-21 Site V1,1/8/2021,Site V1,5.76,25.2,1.92,55,Rainbow Chard,Nebullam Bozeman
+12-24-20 Site V1,12/24/2020,Site V1,5.03,19.95,1.68,51,Rainbow Chard,Nebullam Bozeman
+12-10-20 Site V1,12/10/2020,Site V1,6.36,25.2,2.12,57,Rainbow Chard,Nebullam Bozeman
+11-27-20 Site V1,11/27/2020,Site V1,4.34,18,1.45,54,Rainbow Chard,Nebullam Bozeman
+11-11-20 Site V1,11/11/2020,Site V1,7.76,42,2.59,49,Rainbow Chard,Nebullam Bozeman
+10-29-20 Site V1,10/29/2020,Site V1,4.34,18.45,1.45,55,Rainbow Chard,Nebullam Bozeman
+10-08-20 Site V1,10/8/2020,Site V1,5.13,25.5,1.71,50,Rainbow Chard,Nebullam Bozeman
+10-01-20 Site V1,10/1/2020,Site V1,5.06,27.45,1.69,57,Rainbow Chard,Nebullam Bozeman
+06-15-22 Site V2,6/15/2022,Site V2,18.73,91.9,0.71,423,Zrugula,Nebullam Bozeman
+05-18-22 Site V2,5/18/2022,Site V2,20.25,122.3,0.85,388,Zrugula,Nebullam Bozeman
+04-20-22 Site V2,4/20/2022,Site V2,46.9,276.95,1.79,428,Butterhead,Nebullam Bozeman
+03-16-22 Site V2,3/16/2022,Site V2,29.88,150.95,1.14,429,Butterhead,Nebullam Bozeman
+02-16-22 Site V2,2/16/2022,Site V2,33,300.55,1.26,421,Butterhead,Nebullam Bozeman
+06-08-22 Site V3,6/8/2022,Site V3,19.35,154.9,0.74,423,Butterhead,Nebullam Bozeman
+05-13-22 Site V3,5/13/2022,Site V3,19.8,145.55,0.92,352,Zrugula,Nebullam Bozeman
+05-11-22 Site V3,5/11/2022,Site V3,19.8,145.55,0.92,352,Zrugula,Nebullam Bozeman
+04-15-22 Site V3,4/15/2022,Site V3,39.7,262.5,1.51,421,Butterhead,Nebullam Bozeman
+04-15-22 Site V3,4/15/2022,Site V3,39.7,262.5,1.51,422,Butterhead,Nebullam Bozeman
+03-09-22 Site V3,3/9/2022,Site V3,33.06,165.4,1.26,423,Butterhead,Nebullam Bozeman
+02-09-22 Site V3,2/9/2022,Site V3,7,76.15,0.53,212,Strawberries,Nebullam Bozeman
+06-15-22 Site V4,6/15/2022,Site V4,29.3,147,2.23,214,Strawberries,Nebullam Bozeman
+05-18-22 Site V4,5/18/2022,Site V4,23.95,116.15,1.82,214,Strawberries,Nebullam Bozeman
+04-20-22 Site V4,4/20/2022,Site V4,19.96,82.7,1.52,219,Strawberries,Nebullam Bozeman
+02-23-22 Site V4,2/23/2022,Site V4,19.5,102.65,3.47,93,Strawberries,Nebullam Bozeman
+02-23-22 Site V4,2/23/2022,Site V4,10,65.65,0.76,213,Butterhead,Nebullam Bozeman
+06-01-22 Site V5,6/1/2022,Site V5,22.5,154.9,0.86,424,Zrugula,Nebullam Bozeman
+05-06-22 Site V5,5/6/2022,Site V5,18.35,79.05,1.28,234,Butterhead,Nebullam Bozeman
+05-04-22 Site V5,5/4/2022,Site V5,18.35,79.05,1.28,232,Butterhead,Nebullam Bozeman
+05-04-22 Site V5,5/4/2022,Site V5,6.5,79.05,0.45,236,Zrugula,Nebullam Bozeman
+03-02-22 Site V5,3/2/2022,Site V5,31.9,188.6,1.22,427,Butterhead,Nebullam Bozeman
+06-22-22 Site V6,6/22/2022,Site V6,19.4,97.15,0.74,426,Zrugula,Nebullam Bozeman
+05-25-22 Site V6,5/25/2022,Site V6,20,97.15,0.76,429,Zrugula,Nebullam Bozeman
+04-27-22 Site V6,4/27/2022,Site V6,17.2,137.8,0.79,359,Strawberries,Nebullam Bozeman
+04-27-22 Site V6,4/27/2022,Site V6,12.51,54.7,1.18,173,Zrugula,Nebullam Bozeman
+03-02-22 Site V6,3/2/2022,Site V6,30,181.1,1.14,422,Butterhead,Nebullam Bozeman
+06-01-22 Site U1,6/1/2022,Site U1,25.77,125.65,1.37,301,Butterhead,Nebullam New York
+06-01-22 Site U2,6/1/2022,Site U2,30.85,140.65,1.65,303,Butterhead,Nebullam New York
+06-08-22 Site U3,6/8/2022,Site U3,6.8,45.25,1.45,77,Zrugula,Nebullam New York
+06-08-22 Site U5,6/8/2022,Site U5,23,140.65,1.23,301,Strawberries,Nebullam New York
+06-15-22 Site U6,6/15/2022,Site U6,25.25,165,1.35,301,Butterhead,Nebullam New York
