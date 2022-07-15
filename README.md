@@ -8,6 +8,8 @@ As a way to promote and support open data standards in the indoor farming indust
 
 View the [video walkthrough](https://youtu.be/oXBEGoD8YR0?list=PLaiSf_XWcFZXBgl9MDujEdbyMDDJ-2uh5) to learn more.
 
+Play with the prototype [here](https://0a6a-103-40-197-102.in.ngrok.io).
+
 ## Setup the WebApp on your machine
 - [Install IPFS and have the IPFS Daemon running](https://docs.ipfs.io/install/)
 - [Install R](https://cran.r-project.org)
