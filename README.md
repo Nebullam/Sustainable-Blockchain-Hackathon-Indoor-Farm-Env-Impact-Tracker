@@ -8,7 +8,7 @@ As a way to promote and support open data standards in the indoor farming indust
 
 View the [video walkthrough](https://youtu.be/oXBEGoD8YR0?list=PLaiSf_XWcFZXBgl9MDujEdbyMDDJ-2uh5) to learn more.
 
-Play with the prototype [here](https://003f-223-130-29-222.in.ngrok.io/).
+Play with the prototype [here](https://bd1b-103-179-10-237.in.ngrok.io/).
 
 Learn more about vertical farming [here](https://youtu.be/1MkRX2fPP58).
 
