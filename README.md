@@ -12,6 +12,13 @@ Play with the prototype [here](https://bd1b-103-179-10-237.in.ngrok.io/).
 
 Learn more about vertical farming [here](https://youtu.be/1MkRX2fPP58).
 
+Filecoin Sponsored Grant Change log:
+- Added 2 top level extra tabs containing Metric Summary and Metric Variability analysis.
+- Metric comparison tab has 3 new comparisons.
+- Metric Summary tab has usage and change in usage over time plots which we can look up to the level of individual farm and produce.
+- Metric Variability Tab has the histograms of Usage of different metrics.
+- Overall code base expanded from 450 lines to 942.
+
 ## Setup the WebApp on your machine
 - [Install IPFS and have the IPFS Daemon running](https://docs.ipfs.io/install/)
 - [Install R](https://cran.r-project.org)
